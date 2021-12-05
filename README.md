@@ -4,3 +4,7 @@
 ```
 docker-compose up
 ```
+## Stop docker
+```
+docker-compose down
+```
